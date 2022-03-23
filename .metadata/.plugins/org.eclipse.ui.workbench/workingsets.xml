@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1641714789072_0" label="Java Main Sources" name="Java Main Sources"/>
+<workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1641714789086_1" label="Java Test Sources" name="Java Test Sources"/>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1641714808410_3" label="biojava" name="biojava">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/biojava-core" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/biojava-alignment" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/biojava-structure" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/biojava-structure-gui" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/biojava-genome" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/biojava-modfinder" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/biojava-ws" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/biojava-protein-disorder" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/biojava-aa-prop" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/biojava-survival" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/biojava-ontology" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/biojava-integrationtest" type="4"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1641714789797_2" label="Window Working Set" name="Aggregate for window 1641714789796"/>
+</workingSetManager>
